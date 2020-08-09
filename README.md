@@ -10,6 +10,8 @@ Here is how it should look like when the app is done:
 And here is how the web should be when done:
 ![NLW2020App](https://github.com/MestreALMO/NextLevelWeek2020Day01/blob/master/ReadmeImgs/WebObjective.png?raw=true)
 
+<br />-----<br />
+
 Today it was done the link of the app with the data base and also the screens "My Favorite Teachers" and "Teachers availables" were done.
 
 This "Teachers availables" screen: <br />
@@ -17,3 +19,13 @@ This "Teachers availables" screen: <br />
 
 This "My Favorite Teachers" screen: <br />
 ![NLW2020App](https://github.com/MestreALMO/NextLevelWeek2020Day05/blob/master/_ReadmeImgs/Screenshot_2.png?raw=true)
+
+<br />-----<br />
+
+In case you want to know exactly what happened in the other days here are my links that display exactly what happened:<br />
+Day 01: https://github.com/MestreALMO/NextLevelWeek2020Day01 <br />
+Day 02: https://github.com/MestreALMO/NextLevelWeek2020Day02 <br />
+Day 03: https://github.com/MestreALMO/NextLevelWeek2020Day03 <br />
+Day 04: https://github.com/MestreALMO/NextLevelWeek2020Day04 <br />
+Day 05: https://github.com/MestreALMO/NextLevelWeek2020Day05 <br />
+Day 06+: https://github.com/MestreALMO/NextLevelWeek2020Day06Plus <br />
